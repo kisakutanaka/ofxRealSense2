@@ -24,6 +24,7 @@ void ofApp::update(){
 		}
 		//colorizedDepthPix = realsense.getColorizedDepthPixels();
 	}
+
 }
 
 //--------------------------------------------------------------
